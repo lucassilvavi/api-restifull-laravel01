@@ -11,8 +11,8 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('cors_exemple', function () {
+    return ['status' => 'ok'];
 });
 
 Auth::routes();

@@ -19,8 +19,6 @@
                     <passport-authorized-clients></passport-authorized-clients>
                     <passport-authorized-clients></passport-authorized-clients>
 
-
-
                 </div>
             </div>
         </div>
